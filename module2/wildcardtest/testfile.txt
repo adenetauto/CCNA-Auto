@@ -1,0 +1,7 @@
+Hello World
+This is a testfile
+Hello again
+This is a testfile
+Error: Connection failed
+Warning: Low memory
+Info: Process started
