@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[code]
+*.so
+.python
+venv/
+env
+# IDE
+.vscode/
+.claude
+*.log
+
+.env
+.DS_Store
+*.key
+.pem
